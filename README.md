@@ -1,0 +1,3 @@
+Este es mi repositorio en github: https://github.com/UmbrellaCorpo/Data_analisis.git
+
+Este componente del sistema está diseñado para realizar análisis avanzados de datos científicos, como información genética, bioquímica y física, procesando grandes volúmenes de datos en paralelo para maximizar la eficiencia. Utilizando hilos y procesos concurrentes, el sistema garantiza que el procesamiento se realice de manera ordenada y rápida. Los datos analizados se almacenan en una base de datos H2 en memoria, y pueden ser consultados y visualizados mediante servicios REST. El análisis de datos se enfoca en la gestión estructurada y eficiente, permitiendo realizar consultas y análisis complejos de manera escalable.
